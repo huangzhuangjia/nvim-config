@@ -1,3 +1,4 @@
 # nvim-config
 
-<img width="1508" alt="image" src="https://user-images.githubusercontent.com/16872237/221356288-e29f531e-1d68-4f0e-b99c-8fa8e04c52a8.png">
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/16872237/221360022-ff001fce-03c9-48ff-9ec5-3b9dc35f00fd.png">
+
