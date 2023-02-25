@@ -1,5 +1,8 @@
 local opt = vim.opt
 
+-- 字体
+opt.guifont = "Operator Mono:h14" -- text below applies for VimScript
+
 -- 行号
 opt.relativenumber = true
 opt.number = true
@@ -29,8 +32,9 @@ opt.splitbelow = true
 -- 搜索
 opt.ignorecase = true
 opt.smartcase = true
+opt.smartindent = true
 
 -- 外观
 opt.termguicolors = true
 opt.signcolumn = "yes"
-vim.cmd[[colorscheme dracula]]
+vim.cmd[[colorscheme nightfox]]

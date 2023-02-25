@@ -69,6 +69,7 @@ return require('packer').startup(function(use)
 
   use 'Mofiqul/dracula.nvim'
   use 'navarasu/onedark.nvim'
+  use "EdenEast/nightfox.nvim"
 
   use 'nvim-tree/nvim-web-devicons'
 
